@@ -19,6 +19,10 @@ public class Main {
     cricket.says();
     cricket.jump();
 
+    if (spider instanceof Insect && spider instanceof Spider) {
+      System.out.println("Spider is an insect and a spider");
+    }
+
   }
 
 }

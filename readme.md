@@ -12,4 +12,16 @@
 
 * Uses of a class extend to inherit the properties of another class
 
+## Advantages and Disadvantages
+
+### Advantages of inheritance
+
+* Minimize duplication of code
+
+### Disadvantages of inheritance
+
+* Superclass and subclass can be tightly coupled
+
+* Increased effort to jump through levels of abstraction to get appropriate functionality
+
 
